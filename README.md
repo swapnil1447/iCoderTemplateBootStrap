@@ -1,2 +1,1 @@
-# iCoderTemplateBootStrap
-[website template link] (https://swapnil1447.github.io/iCoderTemplateBootStrap/)
+[Open Website](https://swapnil1447.github.io/iCoderTemplateBootStrap/)
